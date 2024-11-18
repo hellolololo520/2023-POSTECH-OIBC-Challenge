@@ -137,14 +137,4 @@ We used LSTM with attention as our base model. LSTM is known to be effective in 
          </a>
       </td>
    </tr>
-   <tr>
-       <td><a href="#"><b>AAAAA(가가가)</b></a></td>
-       <td><a href="https://github.com/SeungOkOH"><b>BBBBBB(나나나)</b></a></td>
-       <td><a href="https://github.com/glanceyes"><b>CCCCC(다다다)</b></a></td>
-   </tr>
-   <tr>
-      <td >Data Preprocessing<br/>Feature Engineering</td>
-      <td>Data Preprocessing<br/>Team Management</td>
-      <td>AI Modeling<br/>Code Management</td>
-   </tr>
 </table>
