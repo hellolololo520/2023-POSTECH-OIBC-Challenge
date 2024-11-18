@@ -116,25 +116,3 @@ We used LSTM with attention as our base model. LSTM is known to be effective in 
 <br/>
 <br/>
 
-
-# 4. Team
-
-<table style="text-align:center">
-    <tr height="140px">
-      <td>
-         <a href="https://github.com/wldms25">
-            <img src="https://github.com/wldms25.png"/>
-         </a>
-      </td>
-      <td>
-         <a href="https://github.com/juk1329">
-            <img src="https://github.com/SeungOkOH.png"/>
-         </a>
-      </td>
-      <td>
-         <a href="https://github.com/glanceyes">
-            <img src="https://github.com/glanceyes.png"/>
-         </a>
-      </td>
-   </tr>
-</table>
